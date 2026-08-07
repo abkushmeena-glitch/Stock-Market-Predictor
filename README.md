@@ -204,7 +204,7 @@ The application generates:
 - Moving Average (50 Days)
 - Moving Average (100 Days)
 - Moving Average (200 Days)
-- Original vs Predicted Stock Price
+- Actual vs Predicted Stock Price
 
 ---
 
