@@ -41,14 +41,17 @@ A Machine Learning based Stock Market Prediction web application that forecasts 
 
   <img width="1713" height="941" alt="Screenshot_7-8-2026_232216_localhost" src="https://github.com/user-attachments/assets/5ee6471d-976c-4dbc-80a5-0f212f924b9c" />
 
-
 ### Stock Analysis
 
-> *(Add Screenshot Here)*
+<img width="886" height="760" alt="Screenshot_7-8-2026_232424_localhost" src="https://github.com/user-attachments/assets/b3cdb5ab-371f-420b-a117-8bb258a71042" />
+<img width="677" height="977" alt="Screenshot_7-8-2026_232441_localhost" src="https://github.com/user-attachments/assets/a9ea4084-0930-430c-beef-553209395641" />
 
 ### Price Prediction
 
-> *(Add Screenshot Here)*
+<img width="1014" height="473" alt="Screenshot_7-8-2026_232558_localhost" src="https://github.com/user-attachments/assets/d347079b-cb10-417d-9eb2-fa22072df8e3" />
+<img width="1713" height="941" alt="Screenshot_7-8-2026_23266_localhost" src="https://github.com/user-attachments/assets/b3d6f615-4952-445e-a824-bc1d5952aa24" />
+
+
 
 ---
 
