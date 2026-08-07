@@ -224,7 +224,7 @@ The application generates:
 
 **Abkush Meena**
 
-Bachelor of Engineering (B.E)
+Bachelor of Engineering (B.E), UIET, Panjab University, Chandigarh
 
 Artificial and Machine Learning 8th Semester Internship Project
 
