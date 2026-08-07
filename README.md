@@ -150,13 +150,13 @@ Data Preprocessing
 Normalization (MinMaxScaler)
           │
           ▼
-Sequence Generation
+ Sequence Generation
           │
           ▼
-LSTM Neural Network
+ LSTM Neural Network
           │
           ▼
-Prediction
+     Prediction
           │
           ▼
 Visualization & Analysis
