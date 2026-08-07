@@ -216,27 +216,13 @@ The application generates:
 
 ---
 
-## 📚 Learning Outcomes
-
-Through this project I learned:
-
-- Deep Learning using LSTM
-- Time Series Forecasting
-- Stock Market Data Analysis
-- Data Visualization
-- Streamlit Web Application Development
-- TensorFlow & Keras
-- Model Deployment
-
----
-
 ## 👨‍💻 Author
 
-**Avkush Meena**
+**Abkush Meena**
 
-Bachelor of Technology (B.Tech)
+Bachelor of Engineering (B.E)
 
-Machine Learning Internship Project
+Artificial and Machine Learning 8th Semester Internship Project
 
 ---
 
