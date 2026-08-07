@@ -19,7 +19,7 @@ A Machine Learning based Stock Market Prediction web application that forecasts 
   - MA100
   - MA200
 - 🤖 LSTM-based Stock Price Prediction
-- 📉 Original Price vs Predicted Price comparison
+- 📉 Actual Price vs Predicted Price comparison
 - 🌐 User-friendly Streamlit Web Application
 
 ---
@@ -39,7 +39,8 @@ A Machine Learning based Stock Market Prediction web application that forecasts 
 
 ### Home Dashboard
 
-> *(Add Screenshot Here)*
+  <img width="1713" height="941" alt="Screenshot_7-8-2026_232216_localhost" src="https://github.com/user-attachments/assets/5ee6471d-976c-4dbc-80a5-0f212f924b9c" />
+
 
 ### Stock Analysis
 
