@@ -78,10 +78,14 @@ Stock-Market-Predictor/
 │   ├── app.py
 │   ├── Stock Predictions Model.keras
 │   ├── Train_Model.py
-│   ├── Forecastfinal.py
-│   ├── Database.py
-│   └── Graphs.py
-│
+│   ├── stock_final_project
+        ├── major stock
+            ├── avk
+                ├── DataBase.py
+                ├── Forecastfinal.py
+                ├── Graph1.py
+                ├── Graph2.py
+                └──Graph3.py
 ├── requirements.txt
 ├── README.md
 └── LICENSE
@@ -150,13 +154,13 @@ Data Preprocessing
 Normalization (MinMaxScaler)
           │
           ▼
- Sequence Generation
+Sequence Generation
           │
           ▼
- LSTM Neural Network
+LSTM Neural Network
           │
           ▼
-     Prediction
+Prediction
           │
           ▼
 Visualization & Analysis
