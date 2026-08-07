@@ -7,7 +7,7 @@ A Machine Learning based Stock Market Prediction web application that forecasts 
 ## 🚀 Features
 
 - 🔍 Search any stock using its ticker symbol (e.g., AAPL, GOOG, TSLA, MSFT)
-- 📅 Select the number of recent trading days (30 / 60 / 90 or custom)
+- 📅 Select the number of recent trading days (30 / 60 / 90 or custom upto 2500)
 - 📈 Interactive stock history visualization
 - 💰 Displays:
   - Company Name
