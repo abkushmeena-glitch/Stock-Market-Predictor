@@ -1,0 +1,11 @@
+Pushpendu Ghosh, Ariel Neufeld, Jajati Keshari Sahoo,
+Forecasting directional movements of stock prices for intraday trading using LSTM and random forests,
+Finance Research Letters,
+Volume 46, Part A,
+2022,
+102280,
+ISSN 1544-6123,
+https://doi.org/10.1016/j.frl.2021.102280.
+(https://www.sciencedirect.com/science/article/pii/S1544612321003202)
+Abstract: We employ both random forests and LSTM networks (more precisely CuDNNLSTM) as training methodologies to analyze their effectiveness in forecasting out-of-sample directional movements of constituent stocks of the S&P 500 from January 1993 till December 2018 for intraday trading. We introduce a multi-feature setting consisting not only of the returns with respect to the closing prices, but also with respect to the opening prices and intraday returns. As trading strategy, we use Krauss et al. (2017) and Fischer and Krauss (2018) as benchmark. On each trading day, we buy the 10 stocks with the highest probability and sell short the 10 stocks with the lowest probability to outperform the market in terms of intraday returns — all with equal monetary weight. Our empirical results 22All the codes are available on https://github.com/pushpendughosh/Stock-market-forecasting. show that the multi-feature setting provides a daily return, prior to transaction costs, of 0.64% using LSTM networks, and 0.54% using random forests. Hence we outperform the single-feature setting in Fischer and Krauss (2018) and Krauss et al. (2017) consisting only of the daily returns with respect to the closing prices, having corresponding daily returns of 0.41% and of 0.39% with respect to LSTM and random forests, respectively.33Fischer and Krauss (2018) and Krauss et al. (2017) obtain 0.46% and 0.43%, as the period from November 2015 until December 2018 was not included in their backtesting.
+Keywords: Random forest; LSTM; Forecasting; Statistical arbitrage; Machine learning; Intraday trading
